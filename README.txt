@@ -1,1 +1,0 @@
-Please read this file befoe doing anything.
